@@ -1,0 +1,8 @@
+# Package Files #
+*.jar
+*.war
+*.iml
+.idea
+/out/
+.idea_modules/
+.target/
